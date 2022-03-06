@@ -16,3 +16,5 @@ console.log(string.toLowerCase());
 // Return string to Array
 console.log(string.split(" "));
 console.log("This,is,my,first,name".split(","))
+// Return true if includes in string
+console.log(string.includes("Ag"));
